@@ -1,0 +1,9 @@
+{
+  "run": {
+    "type": "url",
+    "file": "public/index.html",
+    "ignoreCurrent": false,
+    "task": "npm/deploy",
+    "url": "http://meismyself.github.io/MangaDragon "
+  }
+}
